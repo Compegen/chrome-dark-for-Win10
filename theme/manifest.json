@@ -1,0 +1,24 @@
+{
+	"manifest_version":2,
+	"version": "1.0",
+	"name": "Dark without Bar",
+	"description": "Made for Windows 10",
+	"theme": {
+		"images":{
+			"theme_tab_background":"images/theme_tab_background.png",
+			"theme_toolbar":"images/theme_toolbar.png"
+		},
+		"colors":{
+			"toolbar":[24,24,24],
+			"tab_text":[200,200,200],
+			"tab_background_text":[100,100,100],
+			"bookmark_text":[200,200,200],
+			"ntp_background":[51,51,51],
+			"ntp_text":[136,136,136],
+			"button_background":[0,0,0,0]
+		},
+		"tints" : {
+			"buttons" : [1, 1, 1]
+		}
+	}
+}
