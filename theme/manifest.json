@@ -18,7 +18,7 @@
 			"button_background":[0,0,0,0]
 		},
 		"tints" : {
-			"buttons" : [1, 1, 1]
+			"buttons" : [0, 0, 0.8]
 		}
 	}
 }
